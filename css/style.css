@@ -1,0 +1,30 @@
+
+h1{
+  color: red;background: blue; font-size: 40px;
+
+}
+h2{
+color: red;
+border: 5px dotted blue;
+}
+
+
+.box{
+width: 50%;
+height: 315px;
+border: 0;
+}
+
+.box_1{
+width: 100px;
+height: 100px;
+}
+.box1 {
+ background: red;
+}
+.box2{
+background: yellow;
+margin-top: 50px;
+ padding:100px ;
+ border: 10px solid;
+}
